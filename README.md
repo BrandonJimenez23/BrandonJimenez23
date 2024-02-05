@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/banner2.png" style="width: 100%; border-radius: 15px;"/>
+  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/bannerGif.gif" style="width: 100%; border-radius: 15px;"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Brandon Jiménez</h1>
