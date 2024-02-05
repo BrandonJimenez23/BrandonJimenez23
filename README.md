@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/es/view/night-gif-22250314)" width="600" height="300"/>
+  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/banner2.png" width="600" height="300"/>
 </div>
 ### Hi there 👋
 
