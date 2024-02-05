@@ -1,6 +1,5 @@
-<div>
-  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/banner.jpg"/>
-</div>
+<div class="tenor-gif-embed" data-postid="22250314" data-share-method="host" data-aspect-ratio="2.33577" data-width="100%"><a href="https://tenor.com/view/night-gif-22250314">Night GIF</a>from <a href="https://tenor.com/search/night-gifs">Night GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ### Hi there 👋
 
 <!--
