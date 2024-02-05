@@ -1,5 +1,7 @@
-<div class="tenor-gif-embed" data-postid="22250314" data-share-method="host" data-aspect-ratio="2.33577" data-width="100%"><a href="https://tenor.com/view/night-gif-22250314">Night GIF</a>from <a href="https://tenor.com/search/night-gifs">Night GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/es/view/night-gif-22250314)" width="600" height="300"/>
+</div>
 ### Hi there 👋
 
 <!--
