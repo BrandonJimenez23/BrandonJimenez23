@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/bannerGif.gif" width="300"/>
+  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/bannerGif.gif" width="1080"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Brandon Jiménez</h1>
 <h3 align="center">A passionate junnior developer</h3>
-  <a align="center"ahref="www.linkedin.com/in/brandon-jiménez-villarroel">
+  <a align="center" href="www.linkedin.com/in/brandon-jiménez-villarroel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
