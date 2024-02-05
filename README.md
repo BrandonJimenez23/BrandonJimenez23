@@ -1,4 +1,4 @@
-!/images/banner
+<span>[Banner](https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/banner.jpg)</span><span>)</span>
 ### Hi there 👋
 
 <!--
