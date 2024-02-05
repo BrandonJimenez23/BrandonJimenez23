@@ -6,5 +6,10 @@
 <h1 align="center">Hi 👋, I'm Brandon Jiménez</h1>
 <h3 align="center">A passionate junnior developer</h3>
 
+## Skills
+
+!Python
+!Java
+!JavaScript
 
 
