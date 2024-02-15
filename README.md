@@ -31,3 +31,17 @@
 |Other               |![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white). ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)|
 
 
+## Projects 🚀
+
+Here are some of my projects.
+
+### Project 1
+ <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/previewErp.png"/>
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+](https://gitlab.com/project2team2/activities-management-erp)https://gitlab.com/project2team2/activities-management-erp
+![Project 1]()
+
+
+
+
