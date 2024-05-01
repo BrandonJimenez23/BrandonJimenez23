@@ -41,6 +41,32 @@ Here are some of my projects.
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ](https://gitlab.com/project2team2/activities-management-erp)
 
+### Project 2
+- **Sushi Go App**: Alongside [
+@Brandon-Jiménez
+](https://github.com/BrandonJimenez23) (team leader), [
+@Hugo Barrera Castillo
+](https://github.com/FirerKraken/), and [
+@Gabriel
+](https://github.com/GabrielCadafalch), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
+# Sushi Go App :sushi:
+Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geolocation features, it connects you to nearby Asian restaurants, from sushi bars to ramen spots. Promoting responsible dining, it helps you make informed choices while supporting local eateries. With its sleek design, it's your passport to culinary adventures.
+## Images Preview :cámara:
+<div>
+    <div>
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image1.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image2.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image3.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image4.jpg" height="275">
+    </div>
+</div>
+## Video Presentation :fotogramas_de_película:
+[![Video Presentation](miniatura)](link_video)
+## Project Report :libros:
+To access the Sushi Go App project report, click [here](link_documentacion).
+## Project Repository :cadenas:
+To access the Sushi Go App project repository, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
+
 
 
 
