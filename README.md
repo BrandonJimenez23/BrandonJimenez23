@@ -39,7 +39,7 @@ Here are some of my projects.
  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/previewErp.png"/>
 
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-](https://gitlab.com/project2team2/activities-management-erp)
+]([https://gitlab.com/project2team2/activities-management-erp](https://github.com/BrandonJimenez23/ERP-Java-Project))
 
 ### Project 2
 - **Sushi Go App**: Alongside [
