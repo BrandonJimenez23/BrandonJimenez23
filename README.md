@@ -37,9 +37,10 @@ Here are some of my projects.
 
 ### Project 1
  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/previewErp.png"/>
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-]([https://gitlab.com/project2team2/activities-management-erp](https://github.com/BrandonJimenez23/ERP-Java-Project))
+ **ERP Java Project**  
+This project was developed during my second year of studying DAM. It is an ERP system created in Java to help the institute manage its administrative tasks efficiently.  
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrandonJimenez23/ERP-Java-Project)
+ 
 
 ### Project 2
 - **Sushi Go App**: Alongside [
