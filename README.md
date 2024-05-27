@@ -39,7 +39,11 @@ Here are some of my projects.
  <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/previewErp.png"/>
  **ERP Java Project**  
 This project was developed during my second year of studying DAM. It is an ERP system created in Java to help the institute manage its administrative tasks efficiently.  
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrandonJimenez23/ERP-Java-Project)
+ <div align="center">
+  <a href="https://github.com/BrandonJimenez23/ERP-Java-Project">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
  
 
 ### Project 2
