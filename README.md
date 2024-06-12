@@ -26,9 +26,9 @@
 |Databases           |![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
 |Other               |![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)|
 
-## Projects 🚀
+# Projects 🚀
 
-## Project 1
+# Project 1
 **JavaFX MP3 Player**:  
 This is a simple MP3 player developed using Java and FXML. It allows users to play, pause, and stop their favorite music tracks with a user-friendly interface.
 <div align="center">
@@ -37,7 +37,7 @@ This is a simple MP3 player developed using Java and FXML. It allows users to pl
   </a>
 </div>
 
-## Project 2
+# Project 2
 **ERP Java Project**:
 <img src="https://github.com/BrandonJimenez23/BrandonJimenez23/blob/main/images/previewErp.png"/>
 
@@ -48,7 +48,7 @@ This project was developed during my second year of studying DAM. It is an ERP s
   </a>
 </div>
 
-## Project 3
+# Project 3
 **Sushi Go App**: Alongside [
 @Brandon-Jiménez
 ](https://github.com/BrandonJimenez23) (team leader), [
@@ -59,7 +59,7 @@ This project was developed during my second year of studying DAM. It is an ERP s
 @Gabriel
 ](https://github.com/GabrielCadafalch), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
 
-# Sushi Go App 🍣
+## Sushi Go App 🍣
 Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geolocation features, it connects you to nearby Asian restaurants, from sushi bars to ramen spots. Promoting responsible dining, it helps you make informed choices while supporting local eateries. With its sleek design, it's your passport to culinary adventures.
 
 ## Images Preview 📷
@@ -79,31 +79,19 @@ Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geoloca
 To access the Sushi Go App project report, click [here](https://github.com/PolNie/Sushi-Go-App/blob/main/report.pdf).
 
 ## Project Repository ⛓️
-To access the Sushi Go App project repository, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
 
+<div align="center">
+  <a href="https://github.com/BrandonJimenez23/ERP-Java-Project">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
-
-## Project 4
+# Project 4
 **Rhythm Boss Battle Game**  
 
 
 Rhythm Boss Battle is a rhythm-based game developed using Unity. Players must match the rhythm to defeat bosses, combining musical talent with strategic gameplay.
 
-## Game Design Document
-To access the game design document, click [here](link_to_design_document).
-
-## User Manual
-To access the user manual, click [here](link_to_user_manual).
-
-## Video Demo 🎞️
-[![Video Demo](https://github.com/BrandonJimenez23/Rhythm-Boss-Battle/blob/main/img/video_thumbnail.jpg)](link_to_video_demo)
-
-## Game Executables
-- [Windows](link_to_windows_executable)
-- [Linux](link_to_linux_executable)
 
 ## Project Repository :cadenas:
 To access the Rhythm Boss Battle project repository, click [here](https://github.com/BrandonJimenez23/Rhythm-Boss-Battle).
-
-## TikTok de FOL
-To access the TikTok video, click [here](link_to_tiktok_video).
