@@ -17,7 +17,7 @@
 </div>
 
 ## 👨‍💻 About Me
-Full Stack Developer with 2+ years of experience specializing in Java, Spring Boot, and React. Currently Technical Lead at WordBusters, leading a team of 5 junior developers in building a multilingual learning platform. Passionate about creating efficient backend systems and intuitive user interfaces.
+Full Stack Developer with 1+ years of experience specializing in Java, Spring Boot, and React. Currently Technical Lead at WordBusters, leading a team of 5 junior developers in building a multilingual learning platform. Passionate about creating efficient backend systems and intuitive user interfaces.
 
 ## 🛠 Technical Skills
 
