@@ -31,29 +31,8 @@ Full Stack Developer with 1+ years of experience specializing in Java, Spring Bo
 
 ## 🚀 Featured Projects
 
-### WordBusters - Multilingual Learning Platform
-**Technical Lead & Full Stack Developer**  
-A web application for language learning through multilingual book reading and customizable vocabulary (integrated with WordReference API).
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/BrandonJimenez23/EduExtra"> <img src="./images/eduextra.png" width="280px" alt="EduExtra"/><br/> <strong>EduExtra – ERP for extracurricular management</strong> </a> <p style="font-size: 13px;">Full-stack ERP platform for schools. Built with Spring Boot and React.</p> </td> <td align="center"> <a href="https://github.com/BrandonJimenez23/WordBusters"> <img src="./images/wordbusters1.png" width="280px" alt="WordBusters"/><br/> <strong>WordBusters – Language Learning Platform</strong> </a> <p style="font-size: 13px;">Multilingual reader with WordReference API, team-led, Dockerized deployment.</p> </td> </tr> <tr> <td align="center"> <a href="https://github.com/BrandonJimenez23/ERP-Java-Project"> <img src="./images/previewErp.png" width="280px" alt="ERP Java Project"/><br/> <strong>ERP Java Project</strong> </a> <p style="font-size: 13px;">ERP built in Java Swing as part of vocational training.</p> </td> <td align="center"> <a href="https://github.com/PolNie/Sushi-Go-App"> <img src="./images/sushi-go.png" width="280px" alt="Sushi Go App"/><br/> <strong>Sushi Go – Android App</strong> </a> <p style="font-size: 13px;">Find nearby Asian restaurants using geolocation. Built with Kotlin.</p> </td> </tr> </table> </div> 
 
-- Led team of 5 junior developers
-- Built REST API with Spring Boot (15+ endpoints)
-- Implemented React frontend with Tailwind CSS
-- Deployed on AWS/GCP using Docker
-
-### ERP Java Project
-Complete ERP system developed in Java for institute management during my DAM studies.
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrandonJimenez23/ERP-Java-Project)
-
-### Sushi Go App (Team Project)
-Android app for finding Asian restaurants with geolocation features (Kotlin).
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PolNie/Sushi-Go-App)
-
-### Rhythm Boss Battle Game
-Rhythm-based game developed in Unity combining music and strategy.
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrandonJimenez23/Rhythm-Boss-Battle)
 
 ## 📈 GitHub Stats
 <div align="center">
